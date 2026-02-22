@@ -1,0 +1,11 @@
+*.py linguist-language=Python
+*.ipynb linguist-detectable=false
+*.html linguist-detectable=false
+*.md linguist-detectable=false
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false
+*.gif linguist-detectable=false
+*.pt linguist-detectable=false
+*.pth linguist-detectable=false
+*.csv linguist-detectable=false

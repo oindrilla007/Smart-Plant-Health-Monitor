@@ -132,3 +132,7 @@ Then open `http://localhost:8501`.
 ## Conclusion
 
 This project combines multiple machine learning models to support early disease detection and precision irrigation decisions.
+
+## Contributor
+
+- Raj Ambavane
