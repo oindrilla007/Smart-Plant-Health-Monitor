@@ -26,6 +26,7 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb_checkpoints
+tutorial.ipynb
 
 # PyCharm
 .idea/
@@ -85,14 +86,18 @@ Thumbs.db
 *.swp
 *~
 
+# Generated docs/exports
+Plant_health.html
+tutorial.html
+
 # FastAPI
 .env
 
 # Keep directory structure but ignore contents
-models/resnet/.gitkeep
-models/yolo/.gitkeep
-models/lstm/.gitkeep
-data/timeseries/.gitkeep
+!models/resnet/.gitkeep
+!models/yolo/.gitkeep
+!models/lstm/.gitkeep
+!data/timeseries/.gitkeep
 
 # Keep one sample image
 !sample_leaf.jpg
