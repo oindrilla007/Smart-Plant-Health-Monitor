@@ -135,4 +135,4 @@ This project combines multiple machine learning models to support early disease 
 
 ## Contributor
 
-- Raj Ambavane
+- [Oindrilla](https://github.com/oindrilla007)
